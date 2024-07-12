@@ -61,13 +61,13 @@ npm install npm@latest -g
 
 <div align='center'>
   <img src="https://user-images.githubusercontent.com/80644262/192089955-fb9eae62-583d-401d-9271-4c1b41e80107.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089961-46af3f5a-6ba7-4685-a423-db902de61f5e.png" width=95% alt="">
+  <!-- <img src="https://user-images.githubusercontent.com/80644262/192089961-46af3f5a-6ba7-4685-a423-db902de61f5e.png" width=95% alt=""> -->
 </div>
 
 ### Searching
 
 <div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089966-323a38b9-d10e-4dbc-8c0e-6184390a4b90.png" width=95% alt="">
+  <img src="/Users/meharchanna/Desktop/Screenshot 2024-07-12 at 12.56.45 PM.png" width=95% alt="">
   <img src="https://user-images.githubusercontent.com/80644262/192089968-ee54b80b-9e87-45bc-908b-f139d8170b15.png" width=95% alt="">
  
 </div>
