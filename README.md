@@ -59,53 +59,30 @@ npm install npm@latest -g
 
 ### Register/log in
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089955-fb9eae62-583d-401d-9271-4c1b41e80107.png" width=95% alt="">
-  <!-- <img src="https://user-images.githubusercontent.com/80644262/192089961-46af3f5a-6ba7-4685-a423-db902de61f5e.png" width=95% alt=""> -->
-</div>
+
 
 ### Searching
 
-<div align='center'>
-  <img src="/Users/meharchanna/Desktop/Screenshot 2024-07-12 at 12.56.45 PM.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089968-ee54b80b-9e87-45bc-908b-f139d8170b15.png" width=95% alt="">
- 
-</div>
+
 
 ### Post new image
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089970-77d01024-3ee3-421c-8c60-f0455a667543.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089971-c4d6a7ca-1c17-4b0e-bff5-c18d1718573a.png" width=95% alt=""> 
-</div>
 
-### Like animage
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089973-339027ae-fe56-4f5a-8add-a358e834a241.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089974-5dffd030-6c6e-4c3e-9769-3d39a64b21eb.png" width=95% alt=""> 
-</div>
+### Like an image
+
+
 
 ### Delete an image
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089975-61d50c64-92c5-4b8a-80f7-4c5ad4de63fd.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089974-5dffd030-6c6e-4c3e-9769-3d39a64b21eb.png" width=95% alt=""> 
-  <img src="https://user-images.githubusercontent.com/80644262/192089979-f6ea114d-e847-44f8-96ee-b2be03fe21ca.png" width=95% alt=""> 
-</div>
+
 
 ### See your images and liked images
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089975-61d50c64-92c5-4b8a-80f7-4c5ad4de63fd.png" width=95% alt="">
-  <img src="https://user-images.githubusercontent.com/80644262/192089976-00d35806-c978-464b-bc15-06568b1749d9.png" width=95% alt="">
-</div>
 
 ### Sign out
 
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/80644262/192089983-d752f205-c6f2-457c-a302-e7ffe49b9c8e.png" width=95% alt="">
-</div>
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
