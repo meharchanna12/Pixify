@@ -13,7 +13,6 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Users can create an account using their Google Account, can post and like images.
 
@@ -55,32 +54,6 @@ npm install npm@latest -g
     ```
     Application will start running at http://localhost:3000
 
-## Features
-
-### Register/log in
-
-
-
-### Searching
-
-
-
-### Post new image
-
-
-
-### Like an image
-
-
-
-### Delete an image
-
-
-
-### See your images and liked images
-
-
-### Sign out
 
 
 
